@@ -1,2 +1,2 @@
 # jay_ibm
-collecting the softcopys 
+collecting the softcopies 
